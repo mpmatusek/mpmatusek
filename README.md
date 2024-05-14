@@ -5,7 +5,7 @@
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/mpmatusek/CloudSOC)
 - <b>Setup Homelab Running Active Directory (Oracle VirtualBox)</b>
-  - [Active Directory Setup]
+  - [Active Directory Setup](https://github.com/mpmatusek/VirtualHomelabActiveDirectory)
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
 
