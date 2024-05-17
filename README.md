@@ -9,6 +9,11 @@
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
 
+<h2>Cybersecurity Activities:</h2>
+- <b>Department of Defense Cyber Sentinel Skills Challenge</b>
+  - ![DoD Competition](https://github.com/mpmatusek/mpmatusek/assets/167713753/c02df91a-53ca-4f90-a634-808c6e7f7440)
+ 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MikeMatusek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
