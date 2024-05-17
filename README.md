@@ -9,14 +9,6 @@
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
 
-<h2>Activities:</h2>
- - <b>DoD Cyber Sentinel Challenge - May 18, 2024</b>
-  - ![image](https://github.com/mpmatusek/mpmatusek/assets/167713753/efd11b94-c8ad-484d-be3e-c1cfaa739a1b)
-- <b>TryHackMe Rooms</b>
-  - [Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QFZ4NB6MIK.png)
-  - [Pre Security] 53% complete
-  - [CompTIA Pentest+] 31% Complete
-
 
 <h2> 🤳 Connect with me:</h2>
 
