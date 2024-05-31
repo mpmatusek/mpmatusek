@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/mpmatusek">Science and Math Educator</a>, <a href="https://www.linkedin.com/in/mpmatusek/">Cybersecurity Professional in Training</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects & Activities:</h2>
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/mpmatusek/CloudSOC)
@@ -8,6 +8,8 @@
   - [Active Directory Setup](https://github.com/mpmatusek/VirtualHomelabActiveDirectory)
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
+- <b>DoD Cyber Sentinel Challenge:</b>
+  - [Write Ups](http://github.com/mpmatusek/DoDCyberSentinelChallenge)
 
 
 <h2> 🤳 Connect with me:</h2>
