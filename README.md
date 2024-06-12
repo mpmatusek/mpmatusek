@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/mpmatusek">Science and Math Educator</a>, <a href="https://www.linkedin.com/in/mpmatusek/">Cybersecurity Professional in Training</a></h1>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/mpmatusek">Science and Math Educator</a>, <a href="https://www.linkedin.com/in/mike-matusek/">Cybersecurity Professional in Training</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects & Activities:</h2>
 
