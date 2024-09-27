@@ -10,15 +10,15 @@
 
 
 ## Certifications
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- CompTIA Project+
-- Cybersecurity Analyst (Leveld Careers)
-- Linux Essentials
-- ITIL Foundations v4
+- [CompTIA A+](https://www.credly.com/badges/276cad2b-5837-47dd-9553-670a54747730/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/c9f5e662-8102-40ce-95fa-8d2db6accbee/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/65ae9e4a-52b6-4c55-8a20-0da2870eca45/public_url)
+- [CompTIA CySA+](https://www.credly.com/badges/009e2c76-1721-4057-b2da-dfdf498f7e9e/public_url)
+- [CompTIA PenTest+](https://www.credly.com/badges/2cb22028-b78c-452f-92a2-749c0ddcc418/public_url)
+- [CompTIA Project+](https://www.credly.com/badges/f53bf3e8-360e-41c0-b97b-757c04aa36e2/public_url)
+- [Associate of (ISC)2](https://www.credly.com/badges/c0a43871-ed6e-48e7-9b1d-c18fd7baf067/public_url)
+- [Cybersecurity Analyst](https://app.kajabi.com/certificates/b1da0534)
+- [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000591817/7jhntnz2be)
 
 ## TryHackMe Badges
 - [OWASP Top 10](https://tryhackme.com/StormCrowAlpha/badges/owasp-10)
