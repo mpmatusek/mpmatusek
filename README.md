@@ -1,34 +1,35 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/mpmatusek">Science and Math Educator</a>, <a href="https://www.linkedin.com/in/mike-matusek/">Cybersecurity Professional in Training</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects & Activities:</h2>
+<h1>👨‍💻 Projects and Activities:</h1>
 
-- <b>Azure/Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/mpmatusek/CloudSOC)
-- <b>Setup Homelab Running Active Directory (Oracle VirtualBox)</b>
   - [Active Directory Setup](https://github.com/mpmatusek/VirtualHomelabActiveDirectory)
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
-- <b>DoD Cyber Sentinel Challenge:</b>
-  - [Write Ups](http://github.com/mpmatusek/DoDCyberSentinelChallenge)
+  - [DOD Cyber Sentinel Challenge Write Ups](http://github.com/mpmatusek/DoDCyberSentinelChallenge)
 
+
+## Certifications
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA PenTest+
+- CompTIA Project+
+- Cybersecurity Analyst (Leveld Careers)
+- Linux Essentials
+- ITIL Foundations v4
+
+## TryHackMe Badges
+- [OWASP Top 10](https://tryhackme.com/StormCrowAlpha/badges/owasp-10)
+- [Networking Nerd](https://tryhackme.com/StormCrowAlpha/badges/network-fundamentals)
+- [Pentesting Principles](https://tryhackme.com/StormCrowAlpha/badges/intro-to-pentesting)
+- [Webbed](https://tryhackme.com/StormCrowAlpha/badges/web-fund)
+- [Skilled Navigator](https://tryhackme.com/StormCrowAlpha/badges/skilled-navigator)
+- [Friday Fixer](https://tryhackme.com/StormCrowAlpha/badges/friday-fixer)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MikeMatusek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/mike-matusek
-
-<!--
-**mpmatusek/mpmatusek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
