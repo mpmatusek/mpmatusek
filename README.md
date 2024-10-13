@@ -10,6 +10,7 @@
 
 
 ## Certifications
+- [Google IT Support](https://coursera.org/share/5d50992ae72f52a829bd84ba7b553fe2)
 - [CompTIA A+](https://www.credly.com/badges/276cad2b-5837-47dd-9553-670a54747730/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/c9f5e662-8102-40ce-95fa-8d2db6accbee/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/65ae9e4a-52b6-4c55-8a20-0da2870eca45/public_url)
