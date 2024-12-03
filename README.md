@@ -5,8 +5,6 @@
   - [Creating a live SOC/Honeynet in Azure](https://github.com/mpmatusek/CloudSOC)
   - [Technical Manual for SOC/Honeynet in Azure](https://github.com/mpmatusek/mpmatusek/blob/main/SOC_ProjectTechnicalManual.pdf)
   - [Active Directory Setup](https://github.com/mpmatusek/VirtualHomelabActiveDirectory)
-  - [Bulk User Creation Using Powershell]
-  - [Group Policy Management w/ Least Privilege]
   - [DOD Cyber Sentinel Challenge Write Ups](http://github.com/mpmatusek/DoDCyberSentinelChallenge)
   
 ## Certifications
