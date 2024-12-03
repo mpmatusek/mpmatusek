@@ -3,12 +3,12 @@
 <h1>👨‍💻 Projects and Activities:</h1>
 
   - [Creating a live SOC/Honeynet in Azure](https://github.com/mpmatusek/CloudSOC)
+  - [Technical Manual for SOC/Honeynet in Azure](https://github.com/mpmatusek/mpmatusek/blob/main/SOC_ProjectTechnicalManual.pdf)
   - [Active Directory Setup](https://github.com/mpmatusek/VirtualHomelabActiveDirectory)
   - [Bulk User Creation Using Powershell]
   - [Group Policy Management w/ Least Privilege]
   - [DOD Cyber Sentinel Challenge Write Ups](http://github.com/mpmatusek/DoDCyberSentinelChallenge)
-
-
+  
 ## Certifications
 - [Google IT Support](https://coursera.org/share/5d50992ae72f52a829bd84ba7b553fe2)
 - [CompTIA A+](https://www.credly.com/badges/276cad2b-5837-47dd-9553-670a54747730/public_url)
