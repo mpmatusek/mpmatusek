@@ -67,4 +67,4 @@
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://linkedin.com/in/mike-matusek)
+[LinkedIn](https://linkedin.com/in/mike-matusek)
